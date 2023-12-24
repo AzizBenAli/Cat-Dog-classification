@@ -53,5 +53,6 @@ Train and evaluate the pre-trained ResNet-50 model
 Compare the performance of both models and select the one with better accuracy for your cat and dog image classification task.
 ## Contact
 If you have any questions or suggestions, feel free to contact me at benaliazizaba000@gmail.com.
+![image](https://github.com/AzizBenAli/Cat-Dog-classification/assets/116091818/e8430c52-23c1-4db6-ad73-158c8dfcd79a)
 
 Happy classifying! 🐱🐶
